@@ -283,11 +283,11 @@ main {
   animation: loaderimg3 3s;
 }
 .preload_imgs img:nth-child(3) {
-  width: 4.519rem;
+   width: 9.146rem;
 }
 @keyframes loaderimg3 {
   0% {
-    width: 4.519rem;
+    width: 9.146rem;
   }
   50% {
     width: 7.174rem;
